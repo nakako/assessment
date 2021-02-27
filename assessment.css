@@ -1,0 +1,28 @@
+body {
+        background-color: #fef6e4;
+        color: #001858;
+        width: 500px;
+        margin-right: auto;
+        margin-left: auto;
+
+
+}
+input{
+    color: #001858;
+    border-color: #001858;
+    height: 20px;
+}
+button{
+    padding: 5px, 20px;
+    background-color: #f582ae;
+    color: #001858;
+    border-color: #001858;
+}
+/* 
+button :hover{
+    background-color: #8bd3dd;
+} */
+
+#result-area{
+    background-color: #8bd3dd;
+}
