@@ -86,7 +86,8 @@ const answers = [
     '{userName}は黒猫です。{userName}は人懐っこく賢いため飼い主さんの良い相棒でしょう。',
     '{userName}は白猫です。{userName}は警戒心が強く、心を許した時に見せる仕草は格別に感じられるでしょう。',
     '{userName}は三毛猫です。{userName}の気まぐれでミステリアスな性格に、周りは釘付けでしょう。',
-    '{userName}ハチワレです。{userName}はユニークな見た目で皆を楽しくさせます。',
+    '{userName}はハチワレです。{userName}はユニークな見た目で皆を楽しくさせます。',
+    '{userName}は茶トラです。{userName}の綺麗な模様は人々を魅了するでしょう。'
 ];
 
 
