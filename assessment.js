@@ -106,7 +106,7 @@ function assessment(userName){
 }
 
 console.assert(
-    assessment('太郎') === '太郎は黒猫です。太郎は人懐っこく賢いため飼い主さんの良い相棒でしょう。'
+    assessment('太郎') === '太郎は白猫です。太郎は警戒心が強く、心を許した時に見せる仕草は格別に感じられるでしょう。'
 );
 
 console.assert(
